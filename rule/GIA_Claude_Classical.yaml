@@ -1,0 +1,11 @@
+payload:
+  # ===== GIA Claude / Anthropic 专属分流规则 =====
+
+  # Claude 主站
+  - DOMAIN-SUFFIX,claude.ai
+
+  # Anthropic 官网 / API / Console / 状态页
+  - DOMAIN-SUFFIX,anthropic.com
+
+  # Claude 支持、邮件、跳转等相关域名
+  - DOMAIN-SUFFIX,claude.com

@@ -1,0 +1,51 @@
+payload:
+  # ===== GIA 家用 CN 环境强制直连规则 =====
+
+  # 字幕 / 本地内容服务
+  - DOMAIN-KEYWORD,zimuku
+
+  # 国内服务 / 税务 / 票务
+  - DOMAIN,mnqcdn.anan.pro
+  - DOMAIN,shuiwu.beestooth.com
+  - DOMAIN,cdn.huapiaoer.com
+
+  # 微信小程序 / 国内业务接口
+  - DOMAIN,wechat.beijiasi.gdtmsoft.com
+  - DOMAIN,gddbzl.anywell27.net
+
+  # IC / 电子元件行情站
+  - DOMAIN-SUFFIX,bom.ai
+  - DOMAIN-SUFFIX,ic.net.cn
+  - DOMAIN-SUFFIX,hqew.com
+  - DOMAIN-SUFFIX,ickey.cn
+  - DOMAIN-SUFFIX,icxh.cn
+
+  # 游戏 / 下载 / 厂商 CDN
+  - DOMAIN,mdnf.dn.nexoncdn.co.kr
+  - DOMAIN,dlcdnets.asus.com
+  - DOMAIN,checkout.steampowered.com
+
+  # 影视 / 刮削 / 资料库
+  - DOMAIN,movie.douban.com
+  - DOMAIN-SUFFIX,themoviedb.org
+
+  # Samsung / Galaxy
+  - DOMAIN,galaxystore.samsung.com
+  - DOMAIN-SUFFIX,galaxyappstore.com
+  - DOMAIN-SUFFIX,samsungcloud.com
+  - DOMAIN-SUFFIX,samsunghealth.com
+
+  # 汽车 / CN 地区服务纠偏
+  - DOMAIN-SUFFIX,tesla.cn
+  - DOMAIN-SUFFIX,tesla.com.cn
+  - DOMAIN-SUFFIX,tesla.com
+  - DOMAIN-SUFFIX,mercedes-benz.com.cn
+  - DOMAIN-SUFFIX,mercedes-benz.com
+
+  # 旧规则里的冷门站
+  - DOMAIN-KEYWORD,xiaodiss
+  - DOMAIN-SUFFIX,52poke.com
+  - DOMAIN-SUFFIX,doordu.com
+  - DOMAIN-KEYWORD,banshenghuo
+  - DOMAIN-KEYWORD,wprosvi
+  - DOMAIN-KEYWORD,metshop
