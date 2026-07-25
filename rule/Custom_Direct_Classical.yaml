@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 662
+# TOTAL: 666
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -137,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,congmiqq.com
   - DOMAIN-SUFFIX,constasj.me
   - DOMAIN-SUFFIX,coros.com
+  - DOMAIN-SUFFIX,crrcgo.cc
   - DOMAIN-SUFFIX,crtyhr.com
   - DOMAIN-SUFFIX,csqaq.com
   - DOMAIN-SUFFIX,cyouzai.com
@@ -265,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,harbourmooc.com
   - DOMAIN-SUFFIX,hbcof.com
   - DOMAIN-SUFFIX,hbctic.com
+  - DOMAIN-SUFFIX,hbymfswz.com
   - DOMAIN-SUFFIX,hdbz.net
   - DOMAIN-SUFFIX,hexiny.com
   - DOMAIN-SUFFIX,hezuvip.com
@@ -503,6 +505,7 @@ payload:
   - DOMAIN-SUFFIX,starlink.uno
   - DOMAIN-SUFFIX,stkfanli.com
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
+  - DOMAIN-SUFFIX,susudesu.com
   - DOMAIN-SUFFIX,suu-fun.com
   - DOMAIN-SUFFIX,suyur.com
   - DOMAIN-SUFFIX,svyun.com
@@ -653,6 +656,7 @@ payload:
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
   - DOMAIN-SUFFIX,zysou.com
+  - DOMAIN-SUFFIX,zzr.cc
   - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
   - DST-PORT,7844
   - SRC-PORT,41641

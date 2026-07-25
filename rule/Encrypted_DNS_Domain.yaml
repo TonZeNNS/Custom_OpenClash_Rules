@@ -1,7 +1,7 @@
 # Generated from rule/Encrypted_DNS.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Encrypted_DNS.list
-# TOTAL: 3411
+# TOTAL: 3412
 
 payload:
   - '+.003153.xyz'
@@ -2123,7 +2123,6 @@ payload:
   - '+.filter.myaddr.io'
   - '+.filya.vpn.i81.ru'
   - '+.fimoshinckaya-federation.site'
-  - '+.fjr01.dnscry.pt'
   - '+.flat.loisy.it'
   - '+.flyloadguard.dynu.net'
   - '+.fnt01.dnscry.pt'
@@ -2747,6 +2746,8 @@ payload:
   - '+.o1.lt'
   - '+.oci02.at9.eu'
   - '+.oculta.me'
+  - '+.odoh-target-noads-se.alekberg.net'
+  - '+.odoh-target.alekberg.net'
   - '+.odvr.nic.cz'
   - '+.office.heimtec.com'
   - '+.office.pramanik.org'
