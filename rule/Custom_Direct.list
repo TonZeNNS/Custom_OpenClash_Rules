@@ -333,6 +333,8 @@ DOMAIN-SUFFIX,terrabbs.ink
 DOMAIN-SUFFIX,yingshi.dog
 # 中转api / add by Telegram user: 美 / Date: 2026-05-15 21:45:11
 DOMAIN-SUFFIX,code-relay.com
+# 安徽联通
+DOMAIN-SUFFIX,ahlt10010.com
 
 # =======================================
 # 以下是应当直连的冷门国内域名规则
@@ -342,6 +344,22 @@ DOMAIN-SUFFIX,code-relay.com
 # 以下是准备向 GeoSite 上游仓库提交 PR 的国内冷门域名，收录后会注释对应内容
 # ---------------------------------------
 # 以下域名待提交 PR
+# sever酱微信通知 / add by Telegram user: James / Date: 2026-07-29 02:12:51
+DOMAIN-SUFFIX,ftqq.com
+# 记账软件 / add by Telegram user: James / Date: 2026-07-29 01:59:37
+DOMAIN-SUFFIX,jinzanzan.com
+# 浩捷云服务器 / add by Telegram user: Norma / Date: 2026-07-28 23:53:17
+DOMAIN-SUFFIX,haojieyun.com
+# add by Telegram user: cym / Date: 2026-07-28 16:35:37
+DOMAIN-SUFFIX,cym520.top
+# 网课 / add by Telegram user: More / Date: 2026-07-28 15:13:28
+DOMAIN-SUFFIX,zzclass.com
+# 搭练APP / add by Telegram user: Norma / Date: 2026-07-27 04:28:39
+DOMAIN-SUFFIX,nlyd.club
+# add by Telegram user: 当当 / Date: 2026-07-25 16:30:07
+DOMAIN-SUFFIX,erocraft.com
+# 专业网站 / add by Telegram user: Aaa / Date: 2026-07-25 14:51:58
+DOMAIN-SUFFIX,ca-sinfusi.com
 # add by Telegram user: 当当 / Date: 2026-07-24 16:14:10
 DOMAIN-SUFFIX,susudesu.com
 # iptv / add by Telegram user: More / Date: 2026-07-23 22:21:32
@@ -1433,6 +1451,5 @@ DOMAIN-SUFFIX,sxlljm.com
 #DOMAIN-SUFFIX,winyoungreading.com
 # fnOS
 #DOMAIN-SUFFIX,5ddd.com
-
 
 # 更多已被收录的域名，此处未做保留
