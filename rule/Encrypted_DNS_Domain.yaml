@@ -1,7 +1,7 @@
 # Generated from rule/Encrypted_DNS.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Encrypted_DNS.list
-# TOTAL: 3360
+# TOTAL: 3362
 
 payload:
   - '+.003153.xyz'
@@ -512,7 +512,6 @@ payload:
   - '+.arrakis.korolyzer.com.br'
   - '+.as6604t-04.myasustor.com'
   - '+.ashixu.ggff.net'
-  - '+.at-wie-w-p-1.nashkan.net'
   - '+.at.pzhg.me'
   - '+.atelier.alica.idv.tw'
   - '+.atl01.dnscry.pt'
@@ -1883,7 +1882,6 @@ payload:
   - '+.doh.jeroenhd.nl'
   - '+.doh.kekew.info'
   - '+.doh.kekew.racing'
-  - '+.doh.kel.pe'
   - '+.doh.kidzonet.io'
   - '+.doh.killtw.im'
   - '+.doh.koduarve.ee'
@@ -2099,7 +2097,6 @@ payload:
   - '+.flyloadguard.dynu.net'
   - '+.fnt01.dnscry.pt'
   - '+.forzalaquila.servebeer.com'
-  - '+.fr-gra-w-p-1.nashkan.net'
   - '+.fr.dalockd.net'
   - '+.fr1.dnswarden.com'
   - '+.fra-dns.bitdefender.net'
@@ -2210,6 +2207,7 @@ payload:
   - '+.hfgx.shop'
   - '+.hg8.asia'
   - '+.hgrps.eu'
+  - '+.himedns.com'
   - '+.himeko297.asuscomm.com'
   - '+.hitian.me'
   - '+.hk-adg.bluenight.me'
@@ -2320,6 +2318,7 @@ payload:
   - '+.httpsdns.baidu.com'
   - '+.huntllcx.cn'
   - '+.huv01.dnscry.pt'
+  - '+.hydra.plan9-ns1.com'
   - '+.i-puppy.ru'
   - '+.i.dns-over-https.tk'
   - '+.iah01.dnscry.pt'
@@ -2487,6 +2486,7 @@ payload:
   - '+.lindung.pp.ua'
   - '+.link.altapo.ru'
   - '+.lion.dns.qwer.pw'
+  - '+.lion.yazilimatolye.com'
   - '+.lis01.dnscry.pt'
   - '+.lis02.dnscry.pt'
   - '+.llk01.dnscry.pt'
@@ -2519,6 +2519,7 @@ payload:
   - '+.mask-api.fe.apple-dns.net'
   - '+.mask-canary.icloud.com'
   - '+.mask-h2.icloud.com'
+  - '+.mask.icloud.com'
   - '+.mastergad.me'
   - '+.masters-of-cloud.de'
   - '+.math.netlab.my.id'
@@ -2701,6 +2702,7 @@ payload:
   - '+.oci02.at9.eu'
   - '+.oculta.me'
   - '+.odoh-target-noads-se.alekberg.net'
+  - '+.odoh-target-noads.alekberg.net'
   - '+.odoh-target-se.alekberg.net'
   - '+.odoh-target.alekberg.net'
   - '+.odvr.nic.cz'
@@ -2805,7 +2807,6 @@ payload:
   - '+.prdot.cldsrv.es'
   - '+.premiumtier-network.instadart.net'
   - '+.prg01.dnscry.pt'
-  - '+.princez.uk'
   - '+.privacy.plumedns.com'
   - '+.privatebard.com'
   - '+.privatnas.servebeer.com'
@@ -2973,6 +2974,7 @@ payload:
   - '+.sg-w-p-1.nashkan.net'
   - '+.sg.101818.xyz'
   - '+.sg.rslvr.eu'
+  - '+.sg.yepdns.com'
   - '+.sg1.dnswarden.com'
   - '+.sg2.ooroot.com'
   - '+.sgd.559299366.xyz'
